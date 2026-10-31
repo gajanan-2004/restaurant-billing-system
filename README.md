@@ -1,7 +1,5 @@
 # 🍽️ Restaurant Billing System
 
-# 🍽️ Restaurant Billing System
-
 ## 📌 Project Overview
 
 The Restaurant Billing System is a Python-based application developed to simplify the restaurant billing process. It allows users to select food items, enter quantities, calculate total prices, and generate customer bills easily.
